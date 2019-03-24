@@ -1,0 +1,12 @@
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\bin\Debug\netcoreapp2.2\IrisFlowerClustering.deps.json
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\bin\Debug\netcoreapp2.2\IrisFlowerClustering.runtimeconfig.json
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\bin\Debug\netcoreapp2.2\IrisFlowerClustering.runtimeconfig.dev.json
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\bin\Debug\netcoreapp2.2\IrisFlowerClustering.dll
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\obj\Debug\netcoreapp2.2\IrisFlowerClustering.csprojAssemblyReference.cache
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\obj\Debug\netcoreapp2.2\IrisFlowerClustering.csproj.CoreCompileInputs.cache
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\obj\Debug\netcoreapp2.2\IrisFlowerClustering.AssemblyInfoInputs.cache
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\obj\Debug\netcoreapp2.2\IrisFlowerClustering.AssemblyInfo.cs
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\bin\Debug\netcoreapp2.2\Data\iris.data
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\bin\Debug\netcoreapp2.2\IrisFlowerClustering.pdb
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\obj\Debug\netcoreapp2.2\IrisFlowerClustering.dll
+D:\Mime\Project\dotnet\IrisFlowerClustering\IrisFlowerClustering\obj\Debug\netcoreapp2.2\IrisFlowerClustering.pdb
