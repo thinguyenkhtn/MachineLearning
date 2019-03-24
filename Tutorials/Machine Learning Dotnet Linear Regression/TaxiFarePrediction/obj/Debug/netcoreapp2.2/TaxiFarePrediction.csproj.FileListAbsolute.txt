@@ -1,0 +1,13 @@
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\TaxiFarePrediction.deps.json
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\TaxiFarePrediction.runtimeconfig.json
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\TaxiFarePrediction.runtimeconfig.dev.json
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\TaxiFarePrediction.dll
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.csprojAssemblyReference.cache
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.csproj.CoreCompileInputs.cache
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.AssemblyInfoInputs.cache
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.AssemblyInfo.cs
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\TaxiFarePrediction.pdb
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.dll
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\obj\Debug\netcoreapp2.2\TaxiFarePrediction.pdb
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\Data\taxi-fare-test.csv
+D:\Mime\Project\dotnet\TaxiFarePrediction\TaxiFarePrediction\bin\Debug\netcoreapp2.2\Data\taxi-fare-train.csv
