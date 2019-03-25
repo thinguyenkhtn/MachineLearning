@@ -1,0 +1,12 @@
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\bin\Debug\netcoreapp2.2\SpamDetection.deps.json
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\bin\Debug\netcoreapp2.2\SpamDetection.runtimeconfig.json
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\bin\Debug\netcoreapp2.2\SpamDetection.runtimeconfig.dev.json
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\bin\Debug\netcoreapp2.2\SpamDetection.dll
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\obj\Debug\netcoreapp2.2\SpamDetection.csprojAssemblyReference.cache
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\obj\Debug\netcoreapp2.2\SpamDetection.csproj.CoreCompileInputs.cache
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\obj\Debug\netcoreapp2.2\SpamDetection.AssemblyInfoInputs.cache
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\obj\Debug\netcoreapp2.2\SpamDetection.AssemblyInfo.cs
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\bin\Debug\netcoreapp2.2\Data\SMSSpamData.txt
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\bin\Debug\netcoreapp2.2\SpamDetection.pdb
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\obj\Debug\netcoreapp2.2\SpamDetection.dll
+D:\Mime\Project\dotnet\SpamDetection\SpamDetection\obj\Debug\netcoreapp2.2\SpamDetection.pdb
